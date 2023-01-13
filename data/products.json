@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "sku":"product1",
+            "name": "Laptop",
+            "price": "10",
+            "imageUrl": "https://gfx.senetic.com/i/gallery/91316638_9062952304.jpg"
+        },
+        {
+            "sku":"product2",
+            "name": "TV",
+            "price": "10",
+            "imageUrl": "https://images.samsung.com/is/image/samsung/levant-fhd-t5300-ua43t5300auxtw-frontblack-229857917?$650_519_PNG$"
+        },
+        {
+            "sku":"product3",
+            "name": "Printer",
+            "price": "10",
+            "imageUrl": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/6/U/6UU48A-1_T1655134442.png"
+        }
+    ]
+}
