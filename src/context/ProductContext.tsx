@@ -1,10 +1,10 @@
 import { createContext, ReactElement, useEffect, useState } from "react";
 
 export type ProductType = {
-  sku: String;
-  name: String;
-  price: Number;
-  imageUrl: String;
+  sku: string;
+  name: string;
+  price: number;
+  imageUrl: string;
 };
 
 const initState: ProductType[] = [];
